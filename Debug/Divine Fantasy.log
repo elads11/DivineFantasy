@@ -1,0 +1,51 @@
+﻿Build started 02/12/2018 21:50:22.
+     1>Project "E:\תואר ראשון\תכנות מונחה עצמים c++\board game\Divine Fantasy.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Divine Fantasy.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Divine Fantasy.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Divine Fantasy.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Assassin.cpp Command.cpp "Divine Fantasy.cpp" "Divine FantasyDlg.cpp" Knight.cpp Mage.cpp Player.cpp Warlock.cpp Warrior.cpp Wizard.cpp
+         Wizard.cpp
+         Warrior.cpp
+         Warlock.cpp
+         Player.cpp
+         Mage.cpp
+         Knight.cpp
+         Divine FantasyDlg.cpp
+     1>e:\תואר ראשון\תכנות מונחה עצמים c++\board game\divine fantasydlg.cpp(276): warning C4101: 'e' : unreferenced local variable
+     1>e:\תואר ראשון\תכנות מונחה עצמים c++\board game\divine fantasydlg.cpp(301): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>e:\תואר ראשון\תכנות מונחה עצמים c++\board game\divine fantasydlg.cpp(425): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>e:\תואר ראשון\תכנות מונחה עצמים c++\board game\divine fantasydlg.cpp(452): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Divine Fantasy.cpp
+         Command.cpp
+         Assassin.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\Divine Fantasy.res" "Divine Fantasy.rc" 
+         
+     1>Divine Fantasy.rc(211): error RC2135: file not found: C:\Users\ezrabe\Desktop\fireballs.bmp
+         
+         
+     1>Divine Fantasy.rc(212): error RC2135: file not found: C:\Users\ezrabe\Desktop\market.bmp
+         
+         
+     1>Divine Fantasy.rc(213): error RC2135: file not found: C:\Users\ezrabe\Desktop\castle.bmp
+         
+         
+     1>Divine Fantasy.rc(214): error RC2135: file not found: C:\Users\ezrabe\Desktop\Cursed.bmp
+         
+         
+     1>Divine Fantasy.rc(215): error RC2135: file not found: C:\Users\ezrabe\Desktop\gate.bmp
+         
+         
+     1>Divine Fantasy.rc(216): error RC2135: file not found: C:\Users\ezrabe\Desktop\shrine.bmp
+         
+         
+     1>Divine Fantasy.rc(217): error RC2135: file not found: C:\Users\ezrabe\Desktop\village.bmp
+         
+     1>Done Building Project "E:\תואר ראשון\תכנות מונחה עצמים c++\board game\Divine Fantasy.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:30.79
